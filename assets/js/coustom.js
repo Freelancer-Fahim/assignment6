@@ -48,7 +48,7 @@ const showImages = (images) => {
     div.className = 'error ';
     div.innerHTML = `
             <div class="card mt-5 " >
-              <p class="text-center text-danger " >Sorry Your Input is Invalid !!! <p>
+              <p class="text-center text-danger " >sorry your input id Death !!! <p>
             </div>
     `;
     imagesArea.appendChild(div);
